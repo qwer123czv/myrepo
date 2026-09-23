@@ -9,9 +9,6 @@ oss repo
 학번 : 20231335
 이름 : 김원재
 
-
-
-
-
 Python run hello.py
 
+웹에서 변경해보기
